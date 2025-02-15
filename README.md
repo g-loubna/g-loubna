@@ -1,12 +1,11 @@
 ## Hi there 👋, I'm Guelmani Loubna
 
 
-**AI & Data Science Student from Algeria.**
+**AI & Data Science Student**
 
 
-- 🔭 I’m currently working on projects involving **computer vision**, **CNNS** and **RNNS** developing solutions for real-world applications. 
-- 🌱 I’m currently learning about **Advanced machine learning** and **Deep Learning models**.
-- 👯 I’m looking to collaborate on innovative AI projetcs that give  meaningfull impact.
+- 🔭 I’m currently working on project involving **computer vision**, **CNNS** and **Deep Learning models** developing solutions for real-world applications. 
+- 🤝 Open to collaborations on innovative AI projects with meaningful impact.
   
 - 📫 How to reach me: l_guelmani@estin.dz
   
@@ -14,7 +13,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/loubna-guelmani-195ba5204)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-orange)](https://www.kaggle.com/guelmaniloubna)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:l_guelmani@estin.dz)
 
 
 <h3 align="left">Languages and Tools:</h3>
