@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Guelmani Loubna
 
 
-**AI & Data Science Student**
+**AI & Data Science Engineer**
 
 
 - 🔭 I’m currently working on a project involving **computer vision**, **CNNS** and **Deep Learning models** developing solutions for real-world applications. 
