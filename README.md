@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a project involving **computer vision**, **CNNS** and **Deep Learning models** developing solutions for real-world applications. 
 - 🤝 Open to collaborations on innovative AI projects with meaningful impact.
   
-- 📫 How to reach me: l_guelmani@estin.dz
+- 📫 How to reach me: guelmani.loubna01@gmail.com
   
 ## Connect with me: 
 
