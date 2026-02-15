@@ -8,6 +8,8 @@
 - 🤝 Open to collaborations on innovative AI projects with meaningful impact.
   
 - 📫 How to reach me: guelmani.loubna01@gmail.com
+
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmg5cGl3ZXhvMXZ4OTJreThjdmQwbnRrcWFtemszN3Z4YTRnczB6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif) 
   
 ## Connect with me: 
 
