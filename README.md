@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Guelmani Loubna
 
 
-**AI & Data Science Engineer**
+**Artificial Intelligence & Data Science Engineer**
 
 
 - 🔭 I’m currently working on a project involving **Deep Learning models**, **computer vision** developing solutions for real-world applications. 
